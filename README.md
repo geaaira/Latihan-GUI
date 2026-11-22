@@ -27,3 +27,6 @@ Aplikasi GUI Java Swing sederhana untuk mencatat peminjaman buku.
 
 5. **Event Listener: `ActionListener` dan `WindowAdapter`**  
    ActionListener menangani klik tombol Simpan dan Hapus. WindowAdapter menangani saat jendela ditutup.
+
+## Screenshot
+![alt text](image.png)
